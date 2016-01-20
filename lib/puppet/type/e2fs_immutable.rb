@@ -9,12 +9,12 @@ Puppet::Type.newtype(:e2fs_immutable) do
     validate do |value|
       unless value.is_a?(String)
         raise Pupper::Error,
-          "not a string, modafuca"
+          "not a string, madafaca"
       end
 
       unless File.exist?(value)
         raise Pupper::Error,
-          "no such file, modafuca"
+          "no such file, madafaca"
       end
     end
   end
