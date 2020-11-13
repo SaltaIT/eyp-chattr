@@ -1,6 +1,6 @@
 {
   "name": "eyp-chattr",
-  "version": "0.1.2",
+  "version": "1.0.2",
   "author": "Jordi Prats",
   "summary": "manages chattr attribures, currently just e2fs_immutable (chattr +i)",
   "license": "Apache-2.0",
