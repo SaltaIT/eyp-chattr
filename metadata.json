@@ -5,7 +5,7 @@
   "summary": "manages chattr attribures, currently just e2fs_immutable (chattr +i)",
   "license": "Apache-2.0",
   "source": "https://github.com/SaltaIT/eyp-chattr",
-  "project_page": null,
+  "project_page": "https://github.com/SaltaIT/eyp-vmwaretools",
   "issues_url": "https://github.com/SaltaIT/eyp-chattr/issues",
   "dependencies": [
     {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0"}
